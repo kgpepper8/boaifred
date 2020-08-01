@@ -1,0 +1,22 @@
+{
+  "name": "boaifred",
+  "version": "1.0.0",
+  "description": "A Game in JS",
+  "scripts": {
+    "test": "echo \"Error: no tests available\" && exit 1",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgpepper8/boaifred.git"
+  },
+  "author": "kgpepper8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgpepper8/boaifred/issues"
+  },
+  "homepage": "https://github.com/kgpepper8/boaifred#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
